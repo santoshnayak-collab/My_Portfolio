@@ -4,6 +4,9 @@
 Welcome to my personal portfolio website.  
 This project showcases my work as a Full Stack MERN Developer and AI/ML Enthusiast, with a modern design and responsive layout using HTML, CSS, and JavaScript.
 
+View the website
+https://santoshnayak-collab.github.io/My_Portfolio/
+
 ## Overview
 
 A sleek and responsive portfolio website to present:
